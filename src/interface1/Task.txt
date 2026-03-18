@@ -1,2 +1,1 @@
-Create an interface Animal with methods makeSound() and eat(). Implement this 
-interface in two classes Dog and Cat.
+Create an interface Animal with methods makeSound() and eat(). Implement this interface in two classes Dog and Cat.

@@ -3,7 +3,7 @@ package person;
 public class Employee extends Person {
 	
 	private int empId;
-	private int salary;
+	private int salary; 
 	
 //	Overloading
 	public void setData(int eId,int s,String n,int a) {
