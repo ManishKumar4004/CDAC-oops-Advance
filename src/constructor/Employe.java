@@ -5,7 +5,7 @@ public class Employe extends Person {
    private int salary;
    
    public Employe(String s,int a,int id, int salary) {
-	super(s,a);
+	super(s,a);   // perameterized constructor called of parent class
 	this.id = id;
 	this.salary = salary;
 	

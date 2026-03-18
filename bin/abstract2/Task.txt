@@ -1,0 +1,6 @@
+Create an abstract class Appliance with fields for brand and power
+consumption, and an abstract method void turnOn(). Create three subclasses,
+WashingMachine, Refrigerator, and Microwave, each providing their own
+implementation of the turnOn method. Write a main method to create instances
+of WashingMachine, Refrigerator, and Microwave, and invoke the turnOn method 
+on each instance to display brand and power consumed.

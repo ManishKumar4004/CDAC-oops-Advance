@@ -1,10 +1,11 @@
 package Abstract;
 
+// Rectangle class inherit shape class
 public class Rectangle extends Shape{
     private float l;
     private float b;
     public Rectangle(float a,float b) {
-    	super();
+    	super(); // default constructor call of parent class
     	l = a;
     	this.b = b;
     }

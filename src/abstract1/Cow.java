@@ -4,6 +4,7 @@ package abstract1;
 // Create cow class and extends Animal class
 public class Cow extends Animal{
 
+	// override sound method
 	@Override
 	public void sound() {
 		System.out.println("bhaaa...bhaaa...");
